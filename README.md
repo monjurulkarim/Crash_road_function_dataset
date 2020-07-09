@@ -6,7 +6,7 @@ This repository contains 4 different datasets.
 * Weather classification
 * Time of the day classification
 
-The below figure contains some example from crash dataset.
+The below figure contains some examples from crash dataset.
 ![figure 5](https://user-images.githubusercontent.com/40798690/87057092-0fc0bc80-c1cc-11ea-96c7-2b63e386606a.png)
 
 Below figure are some examples from road function dataset.
