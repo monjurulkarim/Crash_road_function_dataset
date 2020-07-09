@@ -1,4 +1,4 @@
-# Crash and road function dataset
+# Visual dataset for driving scene understanding
 No public datasets are available for training a deep learning neural network to classify crash scenarios with a pre-crash class and the US road functional system. This repository addressed this issue by developing two datasets that contain a diverse set of driving scenes with various road types. 
 
 The below figure contains some example from crash dataset.
