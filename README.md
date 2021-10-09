@@ -8,7 +8,7 @@ This repository contains 4 different datasets.
 
 ## Download
 
-* download the pre-trained weight from: [download](https://drive.google.com/drive/folders/1fr4FzIUDsENyRKo8342c_1yYBdYTjeiS?usp=sharing)
+* Download the datasets from: [download](https://drive.google.com/drive/folders/1fr4FzIUDsENyRKo8342c_1yYBdYTjeiS?usp=sharing)
 
 
 The below figure contains some examples from crash dataset.
