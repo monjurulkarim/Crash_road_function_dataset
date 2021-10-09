@@ -17,4 +17,14 @@ The below figure contains some examples from crash dataset.
 Below figure are some examples from road function dataset.
 ![figure 6](https://user-images.githubusercontent.com/40798690/87057328-58787580-c1cc-11ea-81c3-ecdedeb9098c.png)
 
-## Classification code will be updated soon...
+## Citation
+If you use this repository, please cite the following paper:
+
+~~~~
+@article{karim2021system,
+  title={A system of vision sensor based deep neural networks for complex driving scene analysis in support of crash risk assessment and prevention},
+  author={Karim, Muhammad Monjurul and Li, Yu and Qin, Ruwen and Yin, Zhaozheng},
+  journal={arXiv preprint arXiv:2106.10319},
+  year={2021}
+}
+~~~~
