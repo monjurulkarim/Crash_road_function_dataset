@@ -6,7 +6,7 @@ This repository contains 4 different datasets.
 * Weather classification
 * Time of the day classification
 
-<p><b> Download the Datasets from : [download](https://drive.google.com/drive/folders/1fr4FzIUDsENyRKo8342c_1yYBdYTjeiS?usp=sharing)</p>
+<p><b> download the datasets from: [download](https://drive.google.com/file/d/1BEfbOIdso_rVsQH8Tq_V-b1Kbt1bNK3S/view?usp=sharing)</p>
 
 The below figure contains some examples from crash dataset.
 ![figure 5](https://user-images.githubusercontent.com/40798690/87057092-0fc0bc80-c1cc-11ea-96c7-2b63e386606a.png)
