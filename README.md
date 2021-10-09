@@ -6,9 +6,7 @@ This repository contains 4 different datasets.
 * Weather classification
 * Time of the day classification
 
-<html>
-  <p> Download the datasets form <a https://drive.google.com/drive/folders/1fr4FzIUDsENyRKo8342c_1yYBdYTjeiS?usp=sharing> Download </a></p>
-  </html>
+* download the pre-trained weight from: [download](https://drive.google.com/drive/folders/1fr4FzIUDsENyRKo8342c_1yYBdYTjeiS?usp=sharing)
 
 The below figure contains some examples from crash dataset.
 ![figure 5](https://user-images.githubusercontent.com/40798690/87057092-0fc0bc80-c1cc-11ea-96c7-2b63e386606a.png)
