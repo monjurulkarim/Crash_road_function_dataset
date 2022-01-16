@@ -8,7 +8,7 @@ This repository contains 4 different datasets.
 
 ## Download
 
-* Download the datasets from: [download](https://drive.google.com/drive/folders/1fr4FzIUDsENyRKo8342c_1yYBdYTjeiS?usp=sharing)
+* Download the datasets from: [download](https://bit.ly/3KjyDw8)
 
 
 The below figure contains some examples from crash dataset.
