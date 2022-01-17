@@ -1,4 +1,4 @@
-# Visual dataset for driving scene classification
+# Image Dataset for driving scene classification
 No public datasets are available for training a deep learning neural network to classify crash scenarios with a pre-crash class and the US road functional system. This repository addressed this issue by developing two datasets that contain a diverse set of driving scenes with various road types. 
 This repository contains 4 different datasets.
 * Crash likelihood classification
